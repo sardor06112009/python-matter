@@ -1,4 +1,5 @@
-# python-matter
+python-matters
+
 # Foydalanuvchidan ikki son kiritshni so'rab, 
 # kiritilgan sonlarning yig'indisi, ayirmasi, 
 # Foydalanuvchidan ikki son kiritshni so'rab,
