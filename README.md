@@ -31,3 +31,7 @@ b = int(input("enter the level: "))
 print(f'{a} ning {b} inchi darajasi= ', a**b  )
 
 #4
+a = int(input("a tomonni kiriting: "))
+b = int(input("b tomonni kiriting: "))
+c = int(input("c tomonni kiriting: "))
+p = print(f" uchburchak perimetri: P={a}+{b}+{c}=", a+b+c)
