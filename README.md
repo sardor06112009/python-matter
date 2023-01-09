@@ -13,9 +13,9 @@ print(f"{a}x{b}=", a*b)
 print(f"{a}/{b}=", a/b)
  
 #2
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
-c = int(input("Enter the third number: "))
+a = int(input("birinchi raqamni kiriting: "))
+b = int(input("ikkinchi sonni kiriting: "))
+c = int(input("uchinchi sonni kiriting: "))
 print(f"{a}+{b}+{c}=", a+b+c)
 print(f"{a}-{b}+{c}=", a-b+c)
 print(f"{a}+{b}-{c}=", a+b-c)
@@ -26,8 +26,8 @@ print(f"{a}:{b}:{c}=", a/b/c)
 print(f"{a}:{b}x{c}=", a/b*c)
 
 #3
-a = int(input("Enter the first number: "))
-b = int(input("enter the level: "))
+a = int(input("birinchi sonni kiriting: "))
+b = int(input("darajani kiriting: "))
 print(f'{a} ning {b} inchi darajasi= ', a**b  )
 
 #4
